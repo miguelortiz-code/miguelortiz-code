@@ -35,8 +35,10 @@ I'm a **Frontend Developer** passionate about creating beautiful and responsive 
 ## 🚀 Projects
 
 ### 1. [Ecommerce Project](https://github.com/username/ecommerce-project)
-![Ecommerce Project]([https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.playstation.com%2Fes-co%2Fproduct%2FUP9000-CUSA02299_00-MARVELSSMGOTY000&psig=AOvVaw1RWQ8Xc-eishg6Lrb44onX&ust=1731454402463000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCyu7a41YkDFQAAAAAdAAAAABAE)) <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
-A platform for buying and selling tech and solar energy products, with user authentication and product management.
+**Title**: Ecommerce Project  
+**Description**: A platform for buying and selling tech and solar energy products, with user authentication and product management.
+
+![Ecommerce Project](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png) <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
 
 **Technologies**: PHP, MySQL, JavaScript
 
@@ -52,8 +54,10 @@ A platform for buying and selling tech and solar energy products, with user auth
 ---
 
 ### 2. [Portfolio Website](https://github.com/username/portfolio-website)
+**Title**: Portfolio Website  
+**Description**: A personal portfolio to showcase my projects, skills, and contact information.
+
 ![Portfolio Website](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png) <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
-A personal portfolio to showcase my projects, skills, and contact information.
 
 **Technologies**: HTML, CSS, JavaScript, React
 
@@ -65,4 +69,5 @@ A personal portfolio to showcase my projects, skills, and contact information.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
   </a>
 </p>
+
 
