@@ -10,33 +10,39 @@ I'm a **Frontend Developer** passionate about creating beautiful and responsive 
 ## 🛠️ Skills
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2300D8FF.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ### Backend
-- PHP
-- Node.js (Learning)
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
 
 ### Databases
-- MySQL
-- PostgreSQL
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
 ### 1. [Ecommerce Project](https://github.com/username/ecommerce-project)
-![Ecommerce Project](https://link-to-image.com/preview.png)
+![Ecommerce Project]([https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.playstation.com%2Fes-co%2Fproduct%2FUP9000-CUSA02299_00-MARVELSSMGOTY000&psig=AOvVaw1RWQ8Xc-eishg6Lrb44onX&ust=1731454402463000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCyu7a41YkDFQAAAAAdAAAAABAE)) <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
 A platform for buying and selling tech and solar energy products, with user authentication and product management.
 
 **Technologies**: PHP, MySQL, JavaScript
 
 <p align="center">
   <a href="https://link-to-preview.com">
-    <img src="https://img.shields.io/badge/Preview-00FF00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
+    <img src="https://img.shields.io/badge/Preview-%239B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
   </a>
   <a href="https://github.com/username/ecommerce-project">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
@@ -46,64 +52,17 @@ A platform for buying and selling tech and solar energy products, with user auth
 ---
 
 ### 2. [Portfolio Website](https://github.com/username/portfolio-website)
-![Portfolio Website](https://link-to-image.com/another-preview.png)
+![Portfolio Website](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png) <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
 A personal portfolio to showcase my projects, skills, and contact information.
 
 **Technologies**: HTML, CSS, JavaScript, React
 
 <p align="center">
   <a href="https://link-to-preview.com">
-    <img src="https://img.shields.io/badge/Preview-00FF00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
+    <img src="https://img.shields.io/badge/Preview-%239B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
   </a>
   <a href="https://github.com/username/portfolio-website">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
   </a>
 </p>
 
----
-
-## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-aya-ortiz/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:miguelangel.aya@correo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://www.miguelportfolio.com">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## 💡 Quote
-
-> "No tree, it is said, can grow to heaven unless its roots are in hell."
-
----
-
-## 📚 Repositories
-
-Here are some of my repositories that you can check out:
-
-### 1. [Ecommerce Project](https://github.com/username/ecommerce-project)
-![Ecommerce Project](https://link-to-image.com/preview.png)
-A platform for buying and selling tech and solar energy products, with user authentication and product management.
-
-**Technologies**: PHP, MySQL, JavaScript
-
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/ecommerce-project)
-[![Demo](https://img.shields.io/badge/Live%20Demo-00FF00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://link-to-demo.com)
-
----
-
-### 2. [Portfolio Website](https://github.com/username/portfolio-website)
-![Portfolio Website](https://link-to-image.com/another-preview.png)
-A personal portfolio to showcase my projects, skills, and contact information.
-
-**Technologies**: HTML, CSS, JavaScript, React
-
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/portfolio-website)
-[![Demo](https://img.shields.io/badge/Live%20Demo-00FF00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://link-to-demo.com)
