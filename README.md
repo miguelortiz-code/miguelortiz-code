@@ -37,10 +37,12 @@ I'm a **Frontend Developer** passionate about creating beautiful and responsive 
 ## 🚀 Projects
 
 ### 1. [Ecommerce enersolar](https://github.com/miguelortiz-code/ecommerce)
+
+![Ecommerce Project](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png) <br> <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
 **Title**: Ecommerce Solar Energy <br>
 **Description**: A platform for buying and selling tech and solar energy products, with user authentication and product management.
 
-![Ecommerce Project](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png) <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
+
 
 ## Technologies: 
 <p align="left">
@@ -62,13 +64,18 @@ I'm a **Frontend Developer** passionate about creating beautiful and responsive 
 
 ---
 
-### 2. [Portfolio Website](https://github.com/username/portfolio-website)
-**Title**: Portfolio Website  
+### 2. [Portfolio Website](https://github.com/miguelortiz-code/portfolio)
+![Portfolio Website](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png)  <br> <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
+**Title**: Portfolio Website <br>
 **Description**: A personal portfolio to showcase my projects, skills, and contact information.
 
-![Portfolio Website](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png) <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
-
-**Technologies**: HTML, CSS, JavaScript, React
+## Technologies: 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</p>
 
 <p align="left">
   <a href="https://link-to-preview.com">
