@@ -36,16 +36,23 @@ I'm a **Frontend Developer** passionate about creating beautiful and responsive 
 
 ## 🚀 Projects
 
-### 1. [Ecommerce Project](https://github.com/username/ecommerce-project)
-**Title**: Ecommerce Project  
+### 1. [Ecommerce enersolar](https://github.com/miguelortiz-code/ecommerce)
+**Title**: Ecommerce Solar Energy <br>
 **Description**: A platform for buying and selling tech and solar energy products, with user authentication and product management.
 
 ![Ecommerce Project](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png) <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
 
-**Technologies**: PHP, MySQL, JavaScript
+## Technologies: 
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 <p align="left">
-  <a href="https://link-to-preview.com">
+  <a>
     <img src="https://img.shields.io/badge/Preview-%239B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
   </a>
   <a href="https://github.com/username/ecommerce-project">
