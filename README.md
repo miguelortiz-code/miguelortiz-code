@@ -78,29 +78,3 @@ I'm a **Frontend Developer** passionate about creating beautiful and responsive 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
   </a>
 </p>
-
----
-## 🌟 Popular Repositories
-
-### [Ecommerce Platform](https://github.com/username/ecommerce-project)
-<p align="left">
-  <img src="https://link-to-image.com/preview.png" width="100" alt="Ecommerce Project Logo"/>
-</p>
-A comprehensive e-commerce platform for tech and solar energy products. Features include user authentication, product management, and a responsive design for an optimized shopping experience.
-
-- **Technologies**: PHP, MySQL, JavaScript
-- **Preview**: [Live Demo](https://link-to-preview.com)
-- **Code**: [GitHub Repo](https://github.com/username/ecommerce-project)
-
----
-
-### [Portfolio Website](https://github.com/username/portfolio-website)
-<p align="left">
-  <img src="https://link-to-image.com/another-preview.png" width="100" alt="Portfolio Project Logo"/>
-</p>
-A personal portfolio to showcase projects, skills, and contact information. Built with a modern, responsive design and optimized for performance.
-
-- **Technologies**: HTML, CSS, JavaScript, React
-- **Preview**: [Live Demo](https://link-to-preview.com)
-- **Code**: [GitHub Repo](https://github.com/username/portfolio-website)
-
