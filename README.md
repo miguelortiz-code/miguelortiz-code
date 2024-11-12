@@ -1,11 +1,11 @@
-# 👋 Hi there! I'm Miguel Angel Aya Ortiz
+# 👋 Hi! I'm Miguel Angel Aya Ortiz
 
 ## 👨‍💻 About Me
 I'm a **Frontend Developer** passionate about creating beautiful and responsive websites and web applications. Currently, I'm focused on mastering **React** and improving my knowledge of **backend technologies**.
 
-- 📍 Based in **Bogotá, Colombia**.
-- 🌱 I’m currently learning **React** and **Tailwind CSS**.
-- ⚡ Fun fact: I love to explore new web technologies and challenge myself with new projects every day.
+🚀 Focused on enhancing my web development skills and always seeking new ways to optimize user experiences.
+🌱 Currently learning React and Tailwind CSS.
+⚡ Constant curiosity: I enjoy exploring new web technologies and challenging myself with innovative projects every day.
 
 ## 🛠️ Skills
 
