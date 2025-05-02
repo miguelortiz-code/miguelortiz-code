@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Miguel Angel Aya Ortiz
 
 ## 👨‍💻 About Me
-I'm **FullStack Developer** passionate about creating beautiful and responsive websites and web applications. Currently, I'm focused on mastering **React** and improving my knowledge of **backend technologies**.
+**FullStack Developer** passionate about creating beautiful and responsive websites and web applications. Currently, I'm focused on mastering **React** and improving my knowledge of **backend technologies**.
 
 - 🚀 Focused on enhancing my web development skills and always seeking new ways to optimize user experiences.
 - 🌱 Currently learning React and Tailwind CSS.
