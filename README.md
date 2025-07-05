@@ -62,11 +62,6 @@
 
 ---
 
-### 2. [Portfolio Website](https://github.com/miguelortiz-code/portfolio)
-![Portfolio Website](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png)  <br> <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
-**Title**: Portfolio Website <br>
-**Description**: A personal portfolio to showcase my projects, skills, and contact information.
-
 ## Technologies: 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
