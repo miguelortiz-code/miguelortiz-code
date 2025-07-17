@@ -1,61 +1,91 @@
-# 👋 Hi! I'm Miguel Angel Aya Ortiz
+# Welcome, I'm Alvaro Capaceta 👋
 
-## 👨‍💻 About Me
-**FullStack Developer** passionate about creating beautiful and responsive websites and web applications. Currently, I'm focused on mastering **React** and improving my knowledge of **backend technologies**.
+## About Me
 
-- 🚀 Focused on enhancing my web development skills and always seeking new ways to optimize user experiences.
-- 🌱 Currently learning React and Tailwind CSS.
-- ⚡ Constant curiosity: I enjoy exploring new web technologies and challenging myself with innovative projects every day.
+I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
 
-## 🛠️ Skills
+🌿 Trying to become a better person every day.
+</br>
+⌛ I enjoy personal development and productivity.
+</br>
+🫂 I enjoy working in teams and collaborating with other people.
+</br>
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-</p>
+### Web Developer
+[![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+ <!-- <img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
+  
+  #### 🏆 GitHub Trophies
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=INGCapaDev&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
+  -->
 
-### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</p>
+## Technologies:
 
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
 
----
+## My Latest Blog Post
+<!-- POSTS:START --><li><a href='https://blog.ingcapadev.com/blog/build-a-design-system-with-storybook-and-tailwind/'>📦 How to Create a Design System with Storybook and Tailwind &lpar;React&rpar; - A Step-by-Step Guide</a><p>📝 Learn how to build a scalable design system from scratch using Storybook and Tailwind CSS in React. Perfect for developers looking to create consistent, maintainable UI components.</p></li><li><a href='https://blog.ingcapadev.com/blog/preparation-and-consistency---the-method-i-use-to-ensure-a-productive-day/'>📦 Preparation + Consistency: The Method I Use to Ensure a Productive Day</a><p>📝 Did you know that a productive day begins the night before? Discover my daily routine and how small habits can transform your focus and energy every day.</p></li><li><a href='https://blog.ingcapadev.com/blog/how-to-remember-everything-you-read/'>📦 Stop Forgetting What You Read: Master the Art of Active Reading</a><p>📝 Struggling to remember what you read? Discover simple yet powerful techniques to actively engage with your reading, retain more knowledge, and make your time spent reading truly count. Learn how to stop passively absorbing information and start retaining it today!</p></li><li><a href='https://blog.ingcapadev.com/blog/the-importance-of-boredom/'>📦 The Hidden Benefits of Boredom</a><p>📝 Learn about the benefits of boredom, how it can boost creativity, mental balance, and self-reflection. Discover some practical tips to turn boredom into opportunities for personal growth and well-being.</p></li><li><a href='https://blog.ingcapadev.com/blog/react-reusability-patterns/'>📦 React Reusability: Exploring 3 common patterns</a><p>📝 Discover the essence of React reusability patterns, essential for crafting efficient user interfaces. Explore three key patterns – custom components, utility functions, and custom hooks – and learn how to identify and implement them effectively.</p></li><!-- POSTS:END -->
 
-## 🚀 Projects
+## Links:
+[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingcapadev/)
+[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)
 
-### 1. [Ecommerce enersolar](https://github.com/miguelortiz-code/ecommerce)
+## Contact:
 
-![Ecommerce Project](https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_Spidemar.png) <br> <!-- Esta es la imagen de prueba, puedes cambiarla luego -->
-**Title**: Ecommerce Solar Energy <br>
-**Description**: A platform for buying and selling tech and solar energy products, with user authentication and product management.
-
-
-
-## Technologies: 
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-<p align="left">
-  <a>
-    <img src="https://img.shields.io/badge/Preview-%239B59B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Preview"/>
-  </a>
-  <a href="https://github.com/username/ecommerce-project">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ingcapadev@gmail.com)
