@@ -48,21 +48,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=miguelortiz-code&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=miguelortiz-code&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelortiz-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=miguelortiz-code&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</div>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
@@ -113,6 +103,6 @@
   <a href="https://www.instagram.com/nishant.jangir.1010/" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /></a>
   <a href="https://discordapp.com/users/957722095381540874" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" /></a>
   <a href="https://wa.me/573002988345" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2673/2673860.png" alt="WhatsApp" height="60" width="60" /></a>
-  <a href="https://tusitioweb.com" target="_blank"><img src="https://images.iconscout.com/3d/free/512/chrome-11210381-8973415.png" alt="Sitio Web" height="50" width="50" /></a>
+  <a href="https://tusitioweb.com" target="_blank"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c53f75a8-5c1c-4e36-a09b-aa5431f4fab4" /></a>
   <a href="mailto:tuemail@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="50" width="50" /></a>
 </p>
