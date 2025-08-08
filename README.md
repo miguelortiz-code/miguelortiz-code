@@ -28,17 +28,17 @@
 
 <h3>🖌️ Frontend</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,astro,figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,figma" height="40" />
 </div>
 
 <h3>🖥️ Backend</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,sqlite,firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,sqlite" height="40" />
 </div>
 
 <h3>⚙️ Herramientas y DevOps</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md,powershell,bash,docker,cloudflare,vercel,gcp,vite" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md,powershell,bash,vercel,gcp,vite" height="40" />
 </div>
 
 <!-- Stats & Trophy -->
