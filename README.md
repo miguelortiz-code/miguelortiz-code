@@ -38,7 +38,7 @@
 
 <h3>⚙️ Herramientas y DevOps</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md,powershell,bash,vercel,gcp,vite" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md,powershell,bash,vercel,vite" height="40" />
 </div>
 
 <!-- Stats & Trophy -->
