@@ -33,7 +33,7 @@
 
 <h3>🖥️ Backend</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,sqlite" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize" height="40" />
 </div>
 
 <h3>⚙️ Herramientas y DevOps</h3>
